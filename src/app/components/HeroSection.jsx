@@ -38,8 +38,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'm a web developer who loves to code and is very passionate about
-            creating beautiful and user-friendly websites.
+            I&#39;m a web developer who loves to code and is very passionate
+            about creating beautiful and user-friendly websites.
           </p>
           <div>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-primary-500 to-secondary-500 hover:bg-slate-200 text-white">
